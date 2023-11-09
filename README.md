@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Victor Smirnov 👋</h1>
+<h1 align="center" color="black">Hi there, I'm Victor Smirnov 👋</h1>
 <h2 align="center">A Python backend developer</h2>
 
 - 🔭 I’m currently working on my pet projects
