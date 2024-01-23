@@ -6,14 +6,20 @@
 
 <h3 align="center"> Skills and tools </h3>
 <br>
-<p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="60" height="60"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="60"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
-<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
-<a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/> </a>
-<a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="60" height="60"/> </a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="60" height="60"/> </a>
-</p>
+
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=green)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+
+![MySQL](https://img.shields.io/badge/mysql-333?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333?style=for-the-badge&logo=SQLAlchemy)
+![sqlite](https://img.shields.io/badge/sqlite-333?style=for-the-badge&logo=sqlite)
+
+![postman](https://img.shields.io/badge/postman-333?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/linux-333?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub)
+![Nginx](https://img.shields.io/badge/Nginx-333?style=for-the-badge&logo=Nginx&logoColor=green)
