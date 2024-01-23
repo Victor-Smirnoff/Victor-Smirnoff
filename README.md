@@ -1,11 +1,16 @@
-<h1 align="center" color="black">Hi there, I'm Victor Smirnov 👋</h1>
-<h2 align="center">A Python backend developer</h2>
+## Python Backend Developer
 
-- 🔭 I’m currently working on my pet projects
-- 🌱 I’m currently learning backend Python web development
+Меня зовут **Смирнов Виктор**, я обучаюсь веб-разработке с лета 2022 года.
 
-<h3 align="center"> Skills and tools </h3>
-<br>
+1. Реализовал REST API для описания валют и обменных курсов. Без фреймворков. Веб-сервер - http.server.
+
+2. Реализовал веб-приложение, реализующее табло счёта теннисного матча. Без фреймворков. Веб-сервер - Waitress.
+
+3. Реализовал многопользовательское веб-приложение на Django для поиска и просмотра погоды (аналог яднекс-погоды, rp5 или gismeteo). В этом приложении работа с внешним API.
+
+4. В процессе реализации другие проекты.
+
+### Мой стек технологий
 
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=green)
