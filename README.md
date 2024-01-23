@@ -28,3 +28,7 @@
 ![Git](https://img.shields.io/badge/git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub)
 ![Nginx](https://img.shields.io/badge/Nginx-333?style=for-the-badge&logo=Nginx&logoColor=green)
+
+### Контакты
+
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/csatom/)
