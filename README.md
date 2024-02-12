@@ -6,7 +6,7 @@
 
 1. Реализовал [REST API](https://github.com/Victor-Smirnoff/currency_exchange) для описания валют и обменных курсов. Без фреймворков. Веб-сервер - http.server.
 
-2. Реализовал веб-приложение, реализующее [табло счёта теннисного матча](https://github.com/Victor-Smirnoff/TennisScoreboard). Без фреймворков. Веб-сервер - Waitress.
+2. Реализовал веб-приложение, реализующее [табло счёта теннисного матча](https://github.com/Victor-Smirnoff/TennisScoreboard). Без фреймворков, за исключением использования SQLAlchemy для доступа к БД. Веб-сервер - Waitress.
 
 3. Реализовал многопользовательское веб-приложение на Django для [поиска и просмотра погоды](https://github.com/Victor-Smirnoff/weather) (аналог яднекс-погоды, rp5 или gismeteo). В этом приложении работа с внешним API.
 
