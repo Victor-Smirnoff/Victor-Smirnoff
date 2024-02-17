@@ -20,14 +20,16 @@
 
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=FastAPI&logoColor=#009688)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 
 ![MySQL](https://img.shields.io/badge/mysql-333?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333?style=for-the-badge&logo=SQLAlchemy)
 ![sqlite](https://img.shields.io/badge/sqlite-333?style=for-the-badge&logo=sqlite)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333?style=for-the-badge&logo=SQLAlchemy)
+![Alembic](https://img.shields.io/badge/Alembic-333?style=for-the-badge&logo=Alembic)
 
 ![postman](https://img.shields.io/badge/postman-333?style=for-the-badge&logo=postman)
 ![Linux](https://img.shields.io/badge/linux-333?style=for-the-badge&logo=linux)
