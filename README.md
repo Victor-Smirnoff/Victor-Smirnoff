@@ -44,3 +44,4 @@
 ### Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/csatom/)
+[![E-mail](https://img.shields.io/badge/-Mail-333?style=for-the-badge&logo=e-mail&logoColor=27A0D9)](csatom@yandex.ru)
