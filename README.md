@@ -4,15 +4,15 @@
 
 **Нацелен на развитие и рост в разработке и изучение новых технологий**
 
-1. Реализовал многопользовательское веб-приложение на Django для [поиска и просмотра погоды](https://github.com/Victor-Smirnoff/weather) (аналог яднекс-погоды, rp5 или gismeteo). В этом приложении работа с внешним API.
+1. Многопользовательское веб-приложение на Django для [поиска и просмотра погоды](https://github.com/Victor-Smirnoff/weather) (аналог яднекс-погоды, rp5 или gismeteo). Django, работа с внешним API, интеграционные тесты django.test.
 
-2. Реализовал веб-приложение, реализующее [табло счёта теннисного матча](https://github.com/Victor-Smirnoff/TennisScoreboard). Без фреймворков, за исключением использования SQLAlchemy для доступа к БД. Веб-сервер - Waitress.
+2. Веб-приложение, реализующее [табло счёта теннисного матча](https://github.com/Victor-Smirnoff/TennisScoreboard). MySQL, SQLAlchemy, Alembic, uWSGI, Waitress, unittest.
 
-3. Реализовал [REST API](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI.git) для описания валют и обменных курсов в асинхронном стиле с использованием Asyncio. Фреймворк - FastAPI. Веб-сервер - uvicorn. Базы данных - SQLAlchemy и PostgreSQL. Миграции - Alembic. Управление зависимостями - Poetry.
+3. [REST API](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI.git) обменника валют в асинхронном стиле с использованием: Asyncio, FastAPI, uvicorn, SQLAlchemy, PostgreSQL, Alembic, Poetry.
    
-4. Реализовал [REST API](https://github.com/Victor-Smirnoff/currency_exchange) для описания валют и обменных курсов. Без фреймворков. Веб-сервер - http.server.
+4. Реализовал [REST API](https://github.com/Victor-Smirnoff/currency_exchange) обменника валют. Без фреймворков на чистом python. Веб-сервер - http.server.
 
-5. Реализовал проект "[Симуляция](https://github.com/Victor-Smirnoff/simulation)". Мотивация проекта - применение основ ООП.
+5. Реализовал проект "[Симуляция](https://github.com/Victor-Smirnoff/simulation)". Применение основ ООП.
 
 6. Реализовал проект "[Телефонный справочник](https://github.com/Victor-Smirnoff/phone_directory_repository)" без использования фреймворков. Без веб- или графического интерфейса.
 
