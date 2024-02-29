@@ -10,11 +10,11 @@
 
 3. [REST API](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI.git) обменника валют в асинхронном стиле с использованием: Asyncio, FastAPI, uvicorn, SQLAlchemy, PostgreSQL, Alembic, Poetry.
    
-4. Реализовал [REST API](https://github.com/Victor-Smirnoff/currency_exchange) обменника валют. Без фреймворков на чистом python. Веб-сервер - http.server.
+4. [REST API](https://github.com/Victor-Smirnoff/currency_exchange) обменника валют. Без фреймворков на чистом python. Веб-сервер - http.server.
 
-5. Реализовал проект "[Симуляция](https://github.com/Victor-Smirnoff/simulation)". Применение основ ООП.
+5. Проект "[Симуляция](https://github.com/Victor-Smirnoff/simulation)". Применение основ ООП.
 
-6. Реализовал проект "[Телефонный справочник](https://github.com/Victor-Smirnoff/phone_directory_repository)" без использования фреймворков. Без веб- или графического интерфейса.
+6. Проект "[Телефонный справочник](https://github.com/Victor-Smirnoff/phone_directory_repository)" без использования фреймворков. Без веб- или графического интерфейса.
 
 7. В процессе реализации другие проекты.
 
