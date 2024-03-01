@@ -4,7 +4,7 @@
 
 **Нацелен на развитие и рост в разработке и изучение новых технологий**
 
-1. Многопользовательское веб-приложение на Django для [поиска и просмотра погоды](https://github.com/Victor-Smirnoff/weather) (аналог яднекс-погоды, rp5 или gismeteo). Django, работа с внешним API, интеграционные тесты django.test.
+1. Многопользовательское веб-приложение на Django для [поиска и просмотра погоды](https://github.com/Victor-Smirnoff/weather) (аналог яднекс-погоды, rp5 или gismeteo). Django, PostgreSQL, работа с внешним API, интеграционные тесты django.test.
 
 2. Веб-приложение, реализующее [табло счёта теннисного матча](https://github.com/Victor-Smirnoff/TennisScoreboard). MySQL, SQLAlchemy, Alembic, uWSGI, Waitress, unittest.
 
